@@ -1,1 +1,1 @@
-# learn-hc-packer
+# Learn Hashicorp Packer
